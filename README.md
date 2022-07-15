@@ -23,6 +23,7 @@ A ride-sharing summary DataFrame by city type
 
 
 The differences amongst the 3 city types:
+
 **Urban:** Has the most drivers employed and has provided the most rides. Due to the number of drivers staffed to the number of rides provided the the Average Fare per Driver is the lowest compared among the 3 types. Average Fare per Ride was also the lowest assuming the ride duration not being as far in distance when compared to rural cities. 
 
 **Suburban:** Between all the data, Suburban cities finished 2nd in every comparison between Rural and Urban. The Drivers were better utilized with a 1.28 ratio of rides to drivers. Due to this reason, the Average Fares per Ride and Driver were both higher than that of the Urban cities.
@@ -35,10 +36,10 @@ A multiple-line chart of total fares for each city type
 </p>
 
 <p align="center">
-  <img src="https://github.com/mcgibbenyd1/Pyber_Analysis/blob/main/analysis/PyBer_fare_summary.png" width="75%"/>
+  <img src="https://github.com/mcgibbenyd1/Pyber_Analysis/blob/main/analysis/PyBer_fare_summary.png" width="95%"/>
 </p>
 
-- Between the dates of 1/1/2019 and 4/28/2019 it can be seen that Urban cities had the most fares during the timeline followed by Suburban then Rural cities. 
+- Between the dates of 1/1/2019 and 4/28/2019 it can be seen that Urban cities had the most fares during the timeline and stayed steady throughout while followed by Suburban then Rural cities. 
  
 ## Overall Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
